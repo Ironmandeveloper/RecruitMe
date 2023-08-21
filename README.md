@@ -30,7 +30,7 @@ These instructions will get you a copy of the project up and running on your loc
    
 ## :hammer_and_wrench: Services
 
-- signup and login
+- Signup and login
 - CV creator
 - Job seeker list
 - Live chat
